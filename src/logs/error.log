@@ -1,0 +1,51 @@
+[Thu Dec 23 16:53:43 2010] [error] [client 172.16.16.1] File does not exist: /mnt/hgfs/Sites/shibuya_static/favicon.ico, referer: http://www.shibuya.dev/
+[Thu Dec 23 10:04:24 2010] [error] [client 172.16.16.1] File does not exist: /mnt/hgfs/Sites/shibuya_static/favicon.ico
+[Thu Jan 06 04:15:04 2011] [error] [client 172.16.16.1] File does not exist: /mnt/hgfs/Sites/shibuya_static/favicon.ico
+[Thu Jan 06 04:19:17 2011] [error] [client 172.16.16.1] File does not exist: /mnt/hgfs/Sites/shibuya_static/favicon.ico
+[Thu Jan 06 04:19:18 2011] [error] [client 172.16.16.1] File does not exist: /mnt/hgfs/Sites/shibuya_static/favicon.ico
+[Thu Jan 06 04:19:19 2011] [error] [client 172.16.16.1] File does not exist: /mnt/hgfs/Sites/shibuya_static/favicon.ico
+[Thu Jan 06 04:19:20 2011] [error] [client 172.16.16.1] File does not exist: /mnt/hgfs/Sites/shibuya_static/favicon.ico
+[Thu Jan 06 04:19:20 2011] [error] [client 172.16.16.1] File does not exist: /mnt/hgfs/Sites/shibuya_static/favicon.ico
+[Thu Jan 06 04:19:20 2011] [error] [client 172.16.16.1] File does not exist: /mnt/hgfs/Sites/shibuya_static/favicon.ico
+[Thu Jan 06 09:24:59 2011] [error] [client 172.16.16.1] mod_wsgi (pid=23670): Exception occurred processing WSGI script '/mnt/hgfs/Sites/shibuya/django.wsgi'.
+[Thu Jan 06 09:24:59 2011] [error] [client 172.16.16.1] Traceback (most recent call last):
+[Thu Jan 06 09:24:59 2011] [error] [client 172.16.16.1]   File "/usr/lib/python2.5/site-packages/django/core/handlers/wsgi.py", line 245, in __call__
+[Thu Jan 06 09:24:59 2011] [error] [client 172.16.16.1]     response = middleware_method(request, response)
+[Thu Jan 06 09:24:59 2011] [error] [client 172.16.16.1]   File "/usr/lib/python2.5/site-packages/django/middleware/common.py", line 84, in process_response
+[Thu Jan 06 09:24:59 2011] [error] [client 172.16.16.1]     if response.status_code == 404:
+[Thu Jan 06 09:24:59 2011] [error] [client 172.16.16.1] AttributeError: 'dict' object has no attribute 'status_code'
+[Thu Jan 06 09:25:57 2011] [error] [client 172.16.16.1] mod_wsgi (pid=23671): Exception occurred processing WSGI script '/mnt/hgfs/Sites/shibuya/django.wsgi'.
+[Thu Jan 06 09:25:57 2011] [error] [client 172.16.16.1] Traceback (most recent call last):
+[Thu Jan 06 09:25:57 2011] [error] [client 172.16.16.1]   File "/usr/lib/python2.5/site-packages/django/core/handlers/wsgi.py", line 245, in __call__
+[Thu Jan 06 09:25:57 2011] [error] [client 172.16.16.1]     response = middleware_method(request, response)
+[Thu Jan 06 09:25:57 2011] [error] [client 172.16.16.1]   File "/usr/lib/python2.5/site-packages/django/middleware/common.py", line 84, in process_response
+[Thu Jan 06 09:25:58 2011] [error] [client 172.16.16.1]     if response.status_code == 404:
+[Thu Jan 06 09:25:58 2011] [error] [client 172.16.16.1] AttributeError: 'dict' object has no attribute 'status_code'
+[Thu Jan 06 09:33:35 2011] [error] [client 172.16.16.1] mod_wsgi (pid=23670): Exception occurred processing WSGI script '/mnt/hgfs/Sites/shibuya/django.wsgi'.
+[Thu Jan 06 09:33:35 2011] [error] [client 172.16.16.1] Traceback (most recent call last):
+[Thu Jan 06 09:33:35 2011] [error] [client 172.16.16.1]   File "/usr/lib/python2.5/site-packages/django/core/handlers/wsgi.py", line 245, in __call__
+[Thu Jan 06 09:33:35 2011] [error] [client 172.16.16.1]     response = middleware_method(request, response)
+[Thu Jan 06 09:33:35 2011] [error] [client 172.16.16.1]   File "/usr/lib/python2.5/site-packages/django/middleware/common.py", line 84, in process_response
+[Thu Jan 06 09:33:35 2011] [error] [client 172.16.16.1]     if response.status_code == 404:
+[Thu Jan 06 09:33:35 2011] [error] [client 172.16.16.1] AttributeError: 'dict' object has no attribute 'status_code'
+[Thu Jan 06 09:39:04 2011] [error] [client 172.16.16.1] mod_wsgi (pid=23671): Exception occurred processing WSGI script '/mnt/hgfs/Sites/shibuya/django.wsgi'.
+[Thu Jan 06 09:39:04 2011] [error] [client 172.16.16.1] Traceback (most recent call last):
+[Thu Jan 06 09:39:04 2011] [error] [client 172.16.16.1]   File "/usr/lib/python2.5/site-packages/django/core/handlers/wsgi.py", line 245, in __call__
+[Thu Jan 06 09:39:04 2011] [error] [client 172.16.16.1]     response = middleware_method(request, response)
+[Thu Jan 06 09:39:04 2011] [error] [client 172.16.16.1]   File "/usr/lib/python2.5/site-packages/django/middleware/common.py", line 84, in process_response
+[Thu Jan 06 09:39:04 2011] [error] [client 172.16.16.1]     if response.status_code == 404:
+[Thu Jan 06 09:39:04 2011] [error] [client 172.16.16.1] AttributeError: 'dict' object has no attribute 'status_code'
+[Thu Jan 06 09:56:55 2011] [error] [client 172.16.16.1] mod_wsgi (pid=23670): Exception occurred processing WSGI script '/mnt/hgfs/Sites/shibuya/django.wsgi'.
+[Thu Jan 06 09:56:55 2011] [error] [client 172.16.16.1] Traceback (most recent call last):
+[Thu Jan 06 09:56:55 2011] [error] [client 172.16.16.1]   File "/usr/lib/python2.5/site-packages/django/core/handlers/wsgi.py", line 245, in __call__
+[Thu Jan 06 09:56:55 2011] [error] [client 172.16.16.1]     response = middleware_method(request, response)
+[Thu Jan 06 09:56:55 2011] [error] [client 172.16.16.1]   File "/usr/lib/python2.5/site-packages/django/middleware/common.py", line 84, in process_response
+[Thu Jan 06 09:56:55 2011] [error] [client 172.16.16.1]     if response.status_code == 404:
+[Thu Jan 06 09:56:55 2011] [error] [client 172.16.16.1] AttributeError: 'dict' object has no attribute 'status_code'
+[Thu Jan 06 09:57:02 2011] [error] [client 172.16.16.1] mod_wsgi (pid=23671): Exception occurred processing WSGI script '/mnt/hgfs/Sites/shibuya/django.wsgi'.
+[Thu Jan 06 09:57:02 2011] [error] [client 172.16.16.1] Traceback (most recent call last):
+[Thu Jan 06 09:57:02 2011] [error] [client 172.16.16.1]   File "/usr/lib/python2.5/site-packages/django/core/handlers/wsgi.py", line 245, in __call__
+[Thu Jan 06 09:57:02 2011] [error] [client 172.16.16.1]     response = middleware_method(request, response)
+[Thu Jan 06 09:57:02 2011] [error] [client 172.16.16.1]   File "/usr/lib/python2.5/site-packages/django/middleware/common.py", line 84, in process_response
+[Thu Jan 06 09:57:02 2011] [error] [client 172.16.16.1]     if response.status_code == 404:
+[Thu Jan 06 09:57:02 2011] [error] [client 172.16.16.1] AttributeError: 'dict' object has no attribute 'status_code'
